@@ -138,7 +138,7 @@ header nav {
     left: 0;
     background-color: var(--primary); 
     transition: width 0.3s ease-out;
-    width: 80%;
+    width: 10%;
 }
 
 .hero .bottom a:hover::after {
